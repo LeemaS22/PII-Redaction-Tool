@@ -1,0 +1,8 @@
+{
+  "name": "RedactX Dashboard UI",
+  "description": "A professional, responsive frontend dashboard interface for a PII detection and document privacy management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
